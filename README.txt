@@ -2,6 +2,7 @@ Unsupervised Learning and Dimensionality Reduction
 Liyue (Nikki) Hu - lhu81
 
 This link contains all information needed to run this assignment: 
+https://github.com/huhu42/assignment3
 
 Requirements: 
 You will need to use python 3 with this code, and to pip install the packages in `requirements.txt`. The main addition here is the tables module which _does_ require HDF5. If you are using OS X with Homebrew you can simply `brew install hdf5` before installing the requirements. 
